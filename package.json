@@ -1,0 +1,17 @@
+{
+  "name": "mahoujs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nonahaya/mahoujs.git"
+  },
+  "author": "Nonahaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nonahaya/mahoujs/issues"
+  },
+  "homepage": "https://github.com/Nonahaya/mahoujs#readme"
+}
